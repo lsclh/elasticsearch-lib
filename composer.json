@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Lsclh\\ElasticsearchLib\\": "src/"
+        }
+    },
+    "name": "lsclh/elasticsearch-lib",
+    "description": "基于官方elasticsearch6.x的链接封装",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cheng",
+            "email": "1019759208@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
